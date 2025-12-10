@@ -1,0 +1,35 @@
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Generated data (user invoices - privacy)
+invoices_json/
+invoices_data.csv
+
+# Test files
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!sample_images/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
