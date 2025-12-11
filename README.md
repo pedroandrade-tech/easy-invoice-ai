@@ -22,11 +22,10 @@ EasyInvoiceAI is an intelligent invoice data extractor powered by Google's Gemin
 
 ### 📸 Screenshot
 
-```
+
 
 ![EasyInvoiceAI Screenshot](assets/screenshot.png)
 
-```
 
 ## 🚀 Quick Start
 
